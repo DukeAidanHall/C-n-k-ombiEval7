@@ -13,5 +13,3 @@ You can account for this by considering the proximity between the two cards, and
 With all these things considered, we find lots of patterns. For example, {6,7 off} and {8,9 off} will always have the exact same distribution across ALL nine hand types. There are many more connections that don't fair over all hand types but work for many.
 
 The difficult part is double counting, pairs can become two pairs, can become full houses, can become four of a kinds. The vast majority of the algorithm deals with inter and intra-double counting.
-
-Current Status: BETA
